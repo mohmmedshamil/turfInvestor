@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473611310929",
+    "project_id": "turfinvestorsapp",
+    "storage_bucket": "turfinvestorsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473611310929:android:d8b4bc0e149c67fbaca570",
+        "android_client_info": {
+          "package_name": "com.mohmmed_shamil.turfInvestorsApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNNJDre2LXGV74qi7hmuzo2kfaHp-Oco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
